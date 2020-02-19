@@ -1,0 +1,1 @@
+{"account":"0732****4825","amount":"56","center":"35","charge":"0","code":"1","contiPayRef":"2406","correlator":"TF15617114916675","email":"syndralla.mariza@contitouch.co.zw","firstName":"syndy","lastName":"morriss","message":"Payment was made Transfer Ref:C2406","method":"Transfer","reference":"334312","status":"Paid"}
